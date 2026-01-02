@@ -24,7 +24,7 @@ pip install djangorestframework djangorestframework-simplejwt dotenv psycopg2 cr
 
 SUPER_SECRET_KEY
 
-also add your database url as
+also add your postgresql database connectionstring as
 
 DATABASE_URL
 
